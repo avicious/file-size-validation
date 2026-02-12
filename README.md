@@ -1,4 +1,4 @@
-# React File Size Validator
+# File Size Validator
 
 A clean, functional React component that provides client-side file validation. This component ensures that user uploads meet specific size requirements before proceeding, saving server bandwidth and providing immediate user feedback.
 
