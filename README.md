@@ -2,6 +2,10 @@
 
 A clean, functional React component that provides client-side file validation. This component ensures that user uploads meet specific size requirements before proceeding, saving server bandwidth and providing immediate user feedback.
 
+## Live Demo
+
+**Check out the live version of this project here:** [avicious.github.io/file-size-validation/](https://avicious.github.io/file-size-validation/)
+
 ## Features
 
 - **Size Filtering**: Restricts files to a specific range (1MB - 5MB).
